@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://c.top4top.io/p_36893h84f1.jpg" width="250"/>
+  <img src="https://raw.githubusercontent.com/ndraafvck/Website-Auto-Order/refs/heads/main/img/thumbnail.jpg" width="250"/>
 </p>
 
 <h1 align="center">Modified WhatsApp Baileys</h1>
