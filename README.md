@@ -17,7 +17,7 @@ This library is highly suitable for building business bots, chat automation syst
 ## Usage
 ```json
 "dependencies": {
-  "@whiskeysockets/baileys": "github:ndraafvck/baileys"
+  "@whiskeysockets/baileys": "github:ndraafvck/bails"
 }
 ```
 ## Import
